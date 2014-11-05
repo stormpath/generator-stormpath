@@ -1,0 +1,32 @@
+{
+  "name": "stormpath",
+  "version": "1.0.0",
+  "description": "A simple Express.js app, with Stormpath powers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.10.28"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stormpath/generator-stormpath"
+  },
+  "keywords": [
+    "stormpath",
+    "users",
+    "security",
+    "express"
+  ],
+  "author": "Stormpath, Inc.",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/stormpath/generator-stormpath/issues"
+  },
+  "homepage": "https://github.com/stormpath/generator-stormpath",
+  "dependencies": {
+    "express": "^4.10.1",
+    "express-stormpath": "^0.5.2"
+  }
+}
