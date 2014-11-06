@@ -70,7 +70,7 @@ documentation as well =)
 
 ## Changelog
 
-**Version 0.1.0** - *Released November 5, 2014*
+**Version 0.1.0**: *11/5/2014*
 
 - First release!
 
