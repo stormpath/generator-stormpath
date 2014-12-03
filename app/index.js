@@ -1,5 +1,9 @@
 'use strict';
 
+/**
+ * Our Stormpath generator.
+ */
+
 var crypto = require('crypto');
 var exec = require('child_process').exec;
 
