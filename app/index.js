@@ -92,9 +92,8 @@ module.exports = generators.Base.extend({
     this.bulkDirectory('routes', 'routes');
   },
   install: function() {
-    var done = this.async();
     this.log(chalk.blue('\nInstalling NPM dependencies...'));
-    this.npmInstall(['express', 'express-stormpath'], { 'save': true }, done);
+    this.npmInstall(['express', 'express-stormpath'], { save: true });
   },
   end: function() {
     var self = this;
