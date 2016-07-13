@@ -12,7 +12,7 @@
   "author": "Stormpath, Inc.",
   "license": "Apache 2",
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^2.0.0",
     "chalk": "^1.1.1",
     "yeoman-generator": "^0.18.2"
   }
