@@ -2,6 +2,8 @@
 
 *Generate a Stormpath and Express web application that runs on Heroku.*
 
+**UPDATE**: This library is no longer actively maintained. Sorry :(
+
 
 ## Purpose
 
